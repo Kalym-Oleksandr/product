@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Cabernet",
+        "description": "Some description",
+        "price": 10.99,
+        "imgUrl": "img/products-list/cabernet.jfif"
+    },
+    {
+        "id": "2",
+        "name": "Pinot grigio",
+        "description": "Some description",
+        "price": 11.99,
+        "imgUrl": "img/products-list/pinot-grigio.jfif"
+    },
+    {
+        "id": "3",
+        "name": "Sauvionon blanc",
+        "description": "Some description",
+        "price": 13.99,
+        "imgUrl": "img/products-list/sauvionon-blanc.jfif"
+    },
+    {
+        "id": "4",
+        "name": "Syran",
+        "description": "Some description",
+        "price": 12.99,
+        "imgUrl": "img/products-list/syran.jfif"
+    }
+]
